@@ -1,0 +1,102 @@
+{
+  "Mats": [
+    {
+      "Name": "Rock Dessert",
+      "ImagePath": "<MatFolderPath>/Rock Dessert.png",
+      "SizeX": 36,
+      "SizeY": 36,
+      "StartingZones": [
+        {
+          "StartingZoneName": "Standard N - S",
+          "StartingZonePrimitiveDatas": [
+            {
+              "PrefabIndex": 0,
+              "PositionX": 0.0,
+              "PositionZ": -18.0,
+              "RotationY": 0.0,
+              "SizeX": 36.0,
+              "SizeZ": 8.0
+            },
+            {
+              "PrefabIndex": 0,
+              "PositionX": 0.0,
+              "PositionZ": 18.0,
+              "RotationY": 180.0,
+              "SizeX": 36.0,
+              "SizeZ": 8.0
+            }
+          ]
+        },
+        {
+          "StartingZoneName": "Wedge N/S",
+          "StartingZonePrimitiveDatas": [
+            {
+              "PrefabIndex": 3,
+              "PositionX": 0.0,
+              "PositionZ": -18.0,
+              "RotationY": 0.0,
+              "SizeX": 36.0,
+              "SizeZ": 12.0
+            },
+            {
+              "PrefabIndex": 3,
+              "PositionX": 0.0,
+              "PositionZ": 18.0,
+              "RotationY": 180.0,
+              "SizeX": 36.0,
+              "SizeZ": 12.0
+            }
+          ]
+        },
+        {
+          "StartingZoneName": "Wedge E/W",
+          "StartingZonePrimitiveDatas": [
+            {
+              "PrefabIndex": 3,
+              "PositionX": -18.0,
+              "PositionZ": 0.0,
+              "RotationY": 90.0,
+              "SizeX": 36.0,
+              "SizeZ": 12.0
+            },
+            {
+              "PrefabIndex": 3,
+              "PositionX": 18.0,
+              "PositionZ": 0.0,
+              "RotationY": 270.0,
+              "SizeX": 36.0,
+              "SizeZ": 12.0
+            }
+          ]
+        },
+        {
+          "StartingZoneName": "Centerline N/S",
+          "StartingZonePrimitiveDatas": [
+            {
+              "PrefabIndex": 0,
+              "PositionX": -0.02,
+              "PositionZ": 0.0,
+              "RotationY": 0.0,
+              "SizeX": 36.0,
+              "SizeZ": 0.04
+            }
+          ]
+        },
+        {
+          "StartingZoneName": "Centerline E/W",
+          "StartingZonePrimitiveDatas": [
+            {
+              "PrefabIndex": 0,
+              "PositionX": 0.0,
+              "PositionZ": -0.02,
+              "RotationY": 90.0,
+              "SizeX": 36.0,
+              "SizeZ": 0.04
+            }
+          ]
+        }
+      ],
+      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/MatArrayData/Rock Dessert.png"
+    }
+  ]
+}

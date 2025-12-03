@@ -1,0 +1,16 @@
+{
+  "BigModifiers": [
+    {
+      "BigModifierName": "The Path of Ash",
+      "ImagePath": "<BigModifierFolderPath>/The Path of Ash.png"
+    },
+    {
+      "BigModifierName": "The Path of Bone",
+      "ImagePath": "<BigModifierFolderPath>/The Path of Bone.png"
+    },
+    {
+      "BigModifierName": "The Path of Spirit",
+      "ImagePath": "<BigModifierFolderPath>/The Path of Spirit.png"
+    }
+  ]
+}

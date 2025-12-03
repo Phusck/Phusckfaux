@@ -1,0 +1,836 @@
+{
+  "FigurineTemplates": [
+    {
+      "FigurineTemplateName": "Alleyway Echo",
+      "BaseName": "50mm",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "Name": "DF",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "WP",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "SP",
+            "FallbackValue": "6",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "SZ",
+            "FallbackValue": "2",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "2"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png",
+        "<FigurineTemplateFolderPath>/StatImage1.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 12,
+      "SizeFactor": 0.854,
+      "XOffSet": -89.0,
+      "AugmentationsNames": [],
+      "PovHeight": 0.0
+    },
+    {
+      "FigurineTemplateName": "Anya Lycarayen The Resolute",
+      "BaseName": "30mm",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "Name": "DF",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "WP",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "SP",
+            "FallbackValue": "6",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "7"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "SZ",
+            "FallbackValue": "2",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "2"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png",
+        "<FigurineTemplateFolderPath>/StatImage1.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 12,
+      "SizeFactor": 0.888,
+      "XOffSet": 0.0,
+      "AugmentationsNames": [],
+      "PovHeight": 0.0
+    },
+    {
+      "FigurineTemplateName": "Catalan Rifleman",
+      "BaseName": "30mm",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "Name": "DF",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "WP",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "SP",
+            "FallbackValue": "6",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "SZ",
+            "FallbackValue": "2",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "2"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png",
+        "<FigurineTemplateFolderPath>/StatImage1.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 4,
+      "SizeFactor": 1.211,
+      "XOffSet": 53.0,
+      "AugmentationsNames": [],
+      "PovHeight": 0.0
+    },
+    {
+      "FigurineTemplateName": "Corvis",
+      "BaseName": "30mm",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "Name": "DF",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "WP",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "SP",
+            "FallbackValue": "6",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "7"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "SZ",
+            "FallbackValue": "2",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "2"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png",
+        "<FigurineTemplateFolderPath>/StatImage1.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 12,
+      "SizeFactor": 0.549,
+      "XOffSet": -28.0,
+      "AugmentationsNames": [],
+      "PovHeight": 0.0
+    },
+    {
+      "FigurineTemplateName": "Eva Havenhand",
+      "BaseName": "30mm",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "Name": "DF",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "WP",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "SP",
+            "FallbackValue": "6",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "SZ",
+            "FallbackValue": "2",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "2"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png",
+        "<FigurineTemplateFolderPath>/StatImage1.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 8,
+      "SizeFactor": 0.924,
+      "XOffSet": -35.0,
+      "AugmentationsNames": [],
+      "PovHeight": 0.0
+    },
+    {
+      "FigurineTemplateName": "Intrepid Fate Emissary",
+      "BaseName": "50mm",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "Name": "DF",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "WP",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "SP",
+            "FallbackValue": "6",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "7"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "SZ",
+            "FallbackValue": "2",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "3"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png",
+        "<FigurineTemplateFolderPath>/StatImage1.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 11,
+      "SizeFactor": 1.294,
+      "XOffSet": -249.0,
+      "AugmentationsNames": [],
+      "PovHeight": 0.0
+    },
+    {
+      "FigurineTemplateName": "Irena Keene",
+      "BaseName": "50mm",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "Name": "DF",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "WP",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "SP",
+            "FallbackValue": "6",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "7"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "SZ",
+            "FallbackValue": "2",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "3"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png",
+        "<FigurineTemplateFolderPath>/StatImage1.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 11,
+      "SizeFactor": 1.285,
+      "XOffSet": -237.0,
+      "AugmentationsNames": [],
+      "PovHeight": 0.0
+    },
+    {
+      "FigurineTemplateName": "Sovereign",
+      "BaseName": "50mm",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "Name": "DF",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "WP",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "SP",
+            "FallbackValue": "6",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "7"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "SZ",
+            "FallbackValue": "2",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "3"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png",
+        "<FigurineTemplateFolderPath>/StatImage1.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 9,
+      "SizeFactor": 1.322,
+      "XOffSet": -192.0,
+      "AugmentationsNames": [],
+      "PovHeight": 0.0
+    },
+    {
+      "FigurineTemplateName": "Chiaki The Beacon",
+      "BaseName": "30mm",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "Name": "DF",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "WP",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "SP",
+            "FallbackValue": "6",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "SZ",
+            "FallbackValue": "2",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "2"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png",
+        "<FigurineTemplateFolderPath>/StatImage1.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 9,
+      "SizeFactor": 1.211,
+      "XOffSet": 76.0,
+      "AugmentationsNames": [],
+      "PovHeight": 0.0
+    },
+    {
+      "FigurineTemplateName": "Ghost Eater",
+      "BaseName": "30mm",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "Name": "DF",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "WP",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "SP",
+            "FallbackValue": "6",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "SZ",
+            "FallbackValue": "2",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "2"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png",
+        "<FigurineTemplateFolderPath>/StatImage1.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 11,
+      "SizeFactor": 1.0,
+      "XOffSet": 0.0,
+      "AugmentationsNames": [],
+      "PovHeight": 0.0
+    },
+    {
+      "FigurineTemplateName": "Izamu The Armor",
+      "BaseName": "50mm",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "Name": "DF",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "WP",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "SP",
+            "FallbackValue": "6",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "SZ",
+            "FallbackValue": "2",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "3"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png",
+        "<FigurineTemplateFolderPath>/StatImage1.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 13,
+      "SizeFactor": 1.345,
+      "XOffSet": 0.0,
+      "AugmentationsNames": [],
+      "PovHeight": 0.0
+    },
+    {
+      "FigurineTemplateName": "Manos The Risen",
+      "BaseName": "30mm",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "Name": "DF",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "WP",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "SP",
+            "FallbackValue": "6",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "7"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "SZ",
+            "FallbackValue": "2",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "2"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png",
+        "<FigurineTemplateFolderPath>/StatImage1.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 11,
+      "SizeFactor": 1.905,
+      "XOffSet": 188.0,
+      "AugmentationsNames": [],
+      "PovHeight": 0.0
+    },
+    {
+      "FigurineTemplateName": "Sun Quiang",
+      "BaseName": "30mm",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "Name": "DF",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "WP",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "SP",
+            "FallbackValue": "6",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "SZ",
+            "FallbackValue": "2",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "2"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png",
+        "<FigurineTemplateFolderPath>/StatImage1.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 8,
+      "SizeFactor": 1.049,
+      "XOffSet": 0.0,
+      "AugmentationsNames": [],
+      "PovHeight": 0.0
+    },
+    {
+      "FigurineTemplateName": "Toshiro The Daimyo",
+      "BaseName": "40mm",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "Name": "DF",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "WP",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "SP",
+            "FallbackValue": "6",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "SZ",
+            "FallbackValue": "2",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "2"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png",
+        "<FigurineTemplateFolderPath>/StatImage1.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 12,
+      "SizeFactor": 1.016,
+      "XOffSet": 0.0,
+      "AugmentationsNames": [],
+      "PovHeight": 0.0
+    },
+    {
+      "FigurineTemplateName": "Yan Lo The Spirit Walker",
+      "BaseName": "40mm",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "Name": "DF",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "WP",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "SP",
+            "FallbackValue": "6",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "SZ",
+            "FallbackValue": "2",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "2"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png",
+        "<FigurineTemplateFolderPath>/StatImage1.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 13,
+      "SizeFactor": 1.279,
+      "XOffSet": 0.0,
+      "AugmentationsNames": [],
+      "PovHeight": 0.0
+    },
+    {
+      "FigurineTemplateName": "Yin The Penangalan",
+      "BaseName": "40mm",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "Name": "DF",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "WP",
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "SP",
+            "FallbackValue": "6",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "8"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "Name": "SZ",
+            "FallbackValue": "2",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "2"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png",
+        "<FigurineTemplateFolderPath>/StatImage1.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 9,
+      "SizeFactor": 0.951,
+      "XOffSet": 0.0,
+      "AugmentationsNames": [],
+      "PovHeight": 0.0
+    }
+  ]
+}

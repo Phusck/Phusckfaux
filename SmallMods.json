@@ -1,0 +1,148 @@
+{
+  "SmallMods": [
+    {
+      "SmallModName": "Adaptable",
+      "Description": "Before performing a duel, this model may remove this token to add a suit of its choice to its duel total.",
+      "ImagePath": "<SmallModFolderPath>/Adaptable.png",
+      "CanAffectFigurines": true,
+      "CanAffectTokens": false,
+      "CanAffectPoints": false,
+      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Adaptable.png"
+    },
+    {
+      "SmallModName": "Adversary",
+      "Description": "Friendly models receive a + to attack actions targeting this model. During the end phase, remove this token.",
+      "ImagePath": "<SmallModFolderPath>/Adversary.png",
+      "CanAffectFigurines": true,
+      "CanAffectTokens": false,
+      "CanAffectPoints": false,
+      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Adversary.png"
+    },
+    {
+      "SmallModName": "Apple",
+      "Description": "Place holder Token",
+      "ImagePath": "<SmallModFolderPath>/Apple.png",
+      "CanAffectFigurines": true,
+      "CanAffectTokens": false,
+      "CanAffectPoints": false,
+      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Apple.png"
+    },
+    {
+      "SmallModName": "Aura (Fire)",
+      "Description": null,
+      "ImagePath": "<SmallModFolderPath>/Aura (Fire).png",
+      "CanAffectFigurines": true,
+      "CanAffectTokens": false,
+      "CanAffectPoints": false,
+      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Aura (Fire).png"
+    },
+    {
+      "SmallModName": "Aura (Hazardous)",
+      "Description": "The area within 2\" of this model is hazardous (Burning ) terrain. Friendly models may choose to be unaffected by this terrain. During the end phase, remove this token.",
+      "ImagePath": "<SmallModFolderPath>/Aura (Hazardous).png",
+      "CanAffectFigurines": true,
+      "CanAffectTokens": false,
+      "CanAffectPoints": false,
+      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Aura (Hazardous).png"
+    },
+    {
+      "SmallModName": "Banana",
+      "Description": "Generic Token",
+      "ImagePath": "<SmallModFolderPath>/Banana.png",
+      "CanAffectFigurines": true,
+      "CanAffectTokens": false,
+      "CanAffectPoints": false,
+      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Banana.png"
+    },
+    {
+      "SmallModName": "Burning",
+      "Description": "During the end phase deal 1 damage to this model and enemy models in base contact with it. Then remove this token.",
+      "ImagePath": "<SmallModFolderPath>/Burning.png",
+      "CanAffectFigurines": true,
+      "CanAffectTokens": false,
+      "CanAffectPoints": false,
+      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Burning.png"
+    },
+    {
+      "SmallModName": "Cherry",
+      "Description": "Generic Token",
+      "ImagePath": "<SmallModFolderPath>/Cherry.png",
+      "CanAffectFigurines": true,
+      "CanAffectTokens": false,
+      "CanAffectPoints": false,
+      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Cherry.png"
+    },
+    {
+      "SmallModName": "Entranced",
+      "Description": "This model’s actions that target a friendly model cannot be cheated. After this model resolves an action targeting a friendly model, remove this token.",
+      "ImagePath": "<SmallModFolderPath>/Entranced.png",
+      "CanAffectFigurines": true,
+      "CanAffectTokens": false,
+      "CanAffectPoints": false,
+      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Entranced.png"
+    },
+    {
+      "SmallModName": "Fast",
+      "Description": "Increase this model’s action limit by 1 (to a maximum of 3). When this model ends its activation, remove this token. Canceled by Slow .",
+      "ImagePath": "<SmallModFolderPath>/Fast.png",
+      "CanAffectFigurines": true,
+      "CanAffectTokens": false,
+      "CanAffectPoints": false,
+      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Fast.png"
+    },
+    {
+      "SmallModName": "Focus",
+      "Description": "Before performing a duel, this model may remove this token to receive a + to the duel. Canceled by Distracted .",
+      "ImagePath": "<SmallModFolderPath>/Focus.png",
+      "CanAffectFigurines": true,
+      "CanAffectTokens": false,
+      "CanAffectPoints": false,
+      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Focus.png"
+    },
+    {
+      "SmallModName": "Greedy",
+      "Description": "When this model would discard an upgrade, it may instead remove this token.",
+      "ImagePath": "<SmallModFolderPath>/Greedy.png",
+      "CanAffectFigurines": true,
+      "CanAffectTokens": false,
+      "CanAffectPoints": false,
+      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Greedy.png"
+    },
+    {
+      "SmallModName": "Shame",
+      "Description": "This model cannot be targeted by the actions of other enemy models. When this model ends its activation, it may choose to deal 1 damage to itself to remove this token.",
+      "ImagePath": "<SmallModFolderPath>/Shame.png",
+      "CanAffectFigurines": true,
+      "CanAffectTokens": false,
+      "CanAffectPoints": false,
+      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Shame.png"
+    },
+    {
+      "SmallModName": "Shielded",
+      "Description": "When this model is dealt non-irreducible damage, it must remove this token to reduce that damage by 1. This token may reduce damage to 0.",
+      "ImagePath": "<SmallModFolderPath>/Shielded.png",
+      "CanAffectFigurines": true,
+      "CanAffectTokens": false,
+      "CanAffectPoints": false,
+      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Shielded.png"
+    },
+    {
+      "SmallModName": "Slow",
+      "Description": "Reduce this model’s action limit by 1 (to a minimum of 1). When this model ends its activation, remove this token. Canceled by Fast .",
+      "ImagePath": "<SmallModFolderPath>/Slow.png",
+      "CanAffectFigurines": true,
+      "CanAffectTokens": false,
+      "CanAffectPoints": false,
+      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Slow.png"
+    },
+    {
+      "SmallModName": "Stunned",
+      "Description": "This model cannot declare triggers and it counts all <Signature Lightning symbol> symbols on its card as blank. When this model ends its activation, remove this token.",
+      "ImagePath": "<SmallModFolderPath>/Stunned.png",
+      "CanAffectFigurines": true,
+      "CanAffectTokens": false,
+      "CanAffectPoints": false,
+      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Stunned.png"
+    }
+  ]
+}

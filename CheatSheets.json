@@ -1,0 +1,19 @@
+{
+  "CheatSheets": [
+    {
+      "CheatSheetTitle": "Industry Leader",
+      "ImagePath": "<CheatSheetsFolderPath>/Industry Leader.png",
+      "IsRosterCheatSheet": true
+    },
+    {
+      "CheatSheetTitle": "Spirit Ascendant",
+      "ImagePath": "<CheatSheetsFolderPath>/Spirit Ascendant.png",
+      "IsRosterCheatSheet": true
+    },
+    {
+      "CheatSheetTitle": "Reference Card",
+      "ImagePath": "<CheatSheetsFolderPath>/Reference Card.png",
+      "IsRosterCheatSheet": false
+    }
+  ]
+}
