@@ -24,11 +24,18 @@
   "Decks": [
     {
       "Name": "Fate Deck",
-      "OriginalDeckFolderPath": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux 4e/Deck - Fate Deck",
       "CardBackFileName": "CardBack.png",
       "CardFileNames": [
         "0.png",
         "1.png",
+        "2.png",
+        "3.png",
+        "4.png",
+        "5.png",
+        "6.png",
+        "7.png",
+        "8.png",
+        "9.png",
         "10.png",
         "11.png",
         "12.png",
@@ -39,7 +46,6 @@
         "17.png",
         "18.png",
         "19.png",
-        "2.png",
         "20.png",
         "21.png",
         "22.png",
@@ -50,7 +56,6 @@
         "27.png",
         "28.png",
         "29.png",
-        "3.png",
         "30.png",
         "31.png",
         "32.png",
@@ -61,7 +66,6 @@
         "37.png",
         "38.png",
         "39.png",
-        "4.png",
         "40.png",
         "41.png",
         "42.png",
@@ -72,15 +76,11 @@
         "47.png",
         "48.png",
         "49.png",
-        "5.png",
         "50.png",
         "51.png",
         "52.png",
-        "53.png",
-        "6.png",
-        "7.png",
-        "8.png",
-        "9.png"
+        "53.png"
+
       ],
       "IsCommunalDeck": false
     }
@@ -149,5 +149,20 @@
   "AuraOptions": 0,
   "CanFigurinesUsingPOV": false,
   "CanInteractablesBeMovedInRandomDirection": false,
-  "InputShortcuts": []
+  "InputShortcuts": [
+    {
+      "ShortcutName": "Change Small Mod Amount - Keyboard F - Focus (1)",
+      "Binding": {
+        "DeviceType": 0,
+        "KeyboardKey": "F",
+        "ModifierKey": "",
+        "MouseButton": 0
+      },
+      "Consequence": {
+        "ConsequenceTypeId": "ChangeSmallModAmount",
+        "ConsequenceParametersJson": "{\"SmallModName\":\"Focus\",\"Amount\":1}"
+      }
+    }
+  ],
+  "GitRepositoryURL": ""
 }

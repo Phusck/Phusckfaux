@@ -14,6 +14,11 @@
       "CheatSheetTitle": "Reference Card",
       "ImagePath": "<CheatSheetsFolderPath>/Reference Card.png",
       "IsRosterCheatSheet": false
+    },
+    {
+      "CheatSheetTitle": "The Barrows gang",
+      "ImagePath": "<CheatSheetsFolderPath>/The Barrows gang.png",
+      "IsRosterCheatSheet": true
     }
   ]
 }

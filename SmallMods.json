@@ -159,6 +159,26 @@
       "CanAffectPoints": false,
       "IsStackable": false,
       "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Stunned.png"
+    },
+    {
+      "SmallModName": "Staggered",
+      "Description": "This model suffers -2 Sp and cannot be moved by other enemy models. When this model ends its activation, remove this token. Canceled by Hastened .",
+      "ImagePath": "<SmallModFolderPath>/Staggered.png",
+      "CanAffectFigurines": true,
+      "CanAffectTokens": false,
+      "CanAffectPoints": false,
+      "IsStackable": false,
+      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Staggered.png"
+    },
+    {
+      "SmallModName": "Impact",
+      "Description": "When this model succeeds in an attack action that deals damage, it must remove this token to deal +1 damage.",
+      "ImagePath": "<SmallModFolderPath>/Impact.png",
+      "CanAffectFigurines": true,
+      "CanAffectTokens": false,
+      "CanAffectPoints": false,
+      "IsStackable": false,
+      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Impact.png"
     }
   ]
 }
