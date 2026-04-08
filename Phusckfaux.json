@@ -163,5 +163,6 @@
       }
     }
   ],
+  "CountVerticalDistance": false,
   "GitRepositoryURL": "https://github.com/Phusck/Phusckfaux"
 }

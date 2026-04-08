@@ -19,6 +19,11 @@
       "CheatSheetTitle": "The Barrows gang",
       "ImagePath": "<CheatSheetsFolderPath>/The Barrows gang.png",
       "IsRosterCheatSheet": true
+    },
+    {
+      "CheatSheetTitle": "Trigger Happy",
+      "ImagePath": "<CheatSheetsFolderPath>/Trigger Happy.png",
+      "IsRosterCheatSheet": true
     }
   ]
 }

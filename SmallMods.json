@@ -179,6 +179,16 @@
       "CanAffectPoints": false,
       "IsStackable": false,
       "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Impact.png"
+    },
+    {
+      "SmallModName": "Explosive",
+      "Description": "",
+      "ImagePath": "<SmallModFolderPath>/Explosive.png",
+      "CanAffectFigurines": true,
+      "CanAffectTokens": false,
+      "CanAffectPoints": false,
+      "IsStackable": false,
+      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Explosive.png"
     }
   ]
 }
