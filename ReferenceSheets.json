@@ -1,0 +1,29 @@
+{
+  "ReferenceSheets": [
+    {
+      "ReferenceSheetTitle": "Industry Leader",
+      "ImagePath": "<ReferenceSheetsFolderPath>/Industry Leader.png",
+      "IsRosterReferenceSheet": true
+    },
+    {
+      "ReferenceSheetTitle": "Reference Card",
+      "ImagePath": "<ReferenceSheetsFolderPath>/Reference Card.png",
+      "IsRosterReferenceSheet": false
+    },
+    {
+      "ReferenceSheetTitle": "Spirit Ascendant",
+      "ImagePath": "<ReferenceSheetsFolderPath>/Spirit Ascendant.png",
+      "IsRosterReferenceSheet": true
+    },
+    {
+      "ReferenceSheetTitle": "The Barrows Gang",
+      "ImagePath": "<ReferenceSheetsFolderPath>/The Barrows Gang.png",
+      "IsRosterReferenceSheet": true
+    },
+    {
+      "ReferenceSheetTitle": "Trigger Happy",
+      "ImagePath": "<ReferenceSheetsFolderPath>/Trigger Happy.png",
+      "IsRosterReferenceSheet": true
+    }
+  ]
+}
