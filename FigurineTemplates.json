@@ -6,7 +6,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -16,7 +16,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -26,7 +26,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -36,7 +36,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -62,7 +62,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -72,7 +72,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -82,7 +82,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -92,7 +92,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -118,7 +118,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -128,7 +128,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -138,7 +138,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -148,7 +148,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -174,7 +174,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -184,7 +184,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -194,7 +194,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -204,7 +204,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -230,7 +230,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -240,7 +240,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -250,7 +250,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -260,7 +260,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -286,7 +286,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -296,7 +296,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -306,7 +306,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -316,7 +316,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -342,7 +342,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -352,7 +352,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -362,7 +362,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -372,7 +372,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -387,8 +387,8 @@
       ],
       "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
       "Health": 11,
-      "SizeFactor": 1.285,
-      "XOffSet": -237.0,
+      "SizeFactor": 1.265,
+      "XOffSet": -282.0,
       "AugmentationsNames": [],
       "PovHeight": 0.0
     },
@@ -398,7 +398,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -408,7 +408,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -418,7 +418,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -428,7 +428,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -454,7 +454,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -464,7 +464,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -474,7 +474,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -484,7 +484,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -510,7 +510,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -520,7 +520,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -530,7 +530,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -540,7 +540,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -566,7 +566,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -576,7 +576,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -586,7 +586,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -596,7 +596,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -622,7 +622,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -632,7 +632,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -642,7 +642,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -652,7 +652,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -678,7 +678,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -688,7 +688,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -698,7 +698,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -708,7 +708,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -734,7 +734,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -744,7 +744,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -754,7 +754,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -764,7 +764,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -790,7 +790,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -800,7 +800,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -810,7 +810,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -820,7 +820,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -846,7 +846,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -856,7 +856,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -866,7 +866,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -876,7 +876,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -902,7 +902,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -912,7 +912,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -922,7 +922,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -932,7 +932,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -958,7 +958,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -968,7 +968,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -978,7 +978,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -988,7 +988,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -1014,7 +1014,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1024,7 +1024,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1034,7 +1034,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -1044,7 +1044,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -1070,7 +1070,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1080,7 +1080,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1090,7 +1090,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -1100,7 +1100,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -1126,7 +1126,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1136,7 +1136,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1146,7 +1146,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -1156,7 +1156,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -1182,7 +1182,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1192,7 +1192,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1202,7 +1202,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -1212,7 +1212,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -1238,7 +1238,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1248,7 +1248,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1258,7 +1258,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -1268,7 +1268,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -1294,7 +1294,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1304,7 +1304,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1314,7 +1314,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -1324,7 +1324,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -1350,7 +1350,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1360,7 +1360,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1370,7 +1370,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -1380,7 +1380,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -1406,7 +1406,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1416,7 +1416,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1426,7 +1426,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -1436,7 +1436,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -1462,7 +1462,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1472,7 +1472,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1482,7 +1482,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -1492,7 +1492,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -1518,7 +1518,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1528,7 +1528,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1538,7 +1538,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -1548,7 +1548,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -1574,7 +1574,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1584,7 +1584,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1594,7 +1594,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -1604,7 +1604,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -1630,7 +1630,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1640,7 +1640,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1650,7 +1650,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -1660,7 +1660,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -1686,7 +1686,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1696,7 +1696,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1706,7 +1706,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -1716,7 +1716,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -1742,7 +1742,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1752,7 +1752,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1762,7 +1762,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -1772,7 +1772,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -1798,7 +1798,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1808,7 +1808,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1818,7 +1818,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -1828,7 +1828,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -1854,7 +1854,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1864,7 +1864,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1874,7 +1874,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -1884,7 +1884,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -1910,7 +1910,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1920,7 +1920,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1930,7 +1930,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -1940,7 +1940,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -1966,7 +1966,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1976,7 +1976,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -1986,7 +1986,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -1996,7 +1996,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -2022,7 +2022,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -2032,7 +2032,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -2042,7 +2042,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -2052,7 +2052,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -2078,7 +2078,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -2088,7 +2088,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -2098,7 +2098,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -2108,7 +2108,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -2134,7 +2134,7 @@
       "Stats": [
         {
           "FigurineStatCreatorData": {
-            "Name": "DF",
+            "FigurineStatName": "DF",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -2144,7 +2144,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "WP",
+            "FigurineStatName": "WP",
             "ShortName": null,
             "FallbackValue": "5",
             "IsOnDefensiveStatLine": true,
@@ -2154,7 +2154,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SP",
+            "FigurineStatName": "SP",
             "ShortName": null,
             "FallbackValue": "6",
             "IsOnDefensiveStatLine": true,
@@ -2164,7 +2164,7 @@
         },
         {
           "FigurineStatCreatorData": {
-            "Name": "SZ",
+            "FigurineStatName": "SZ",
             "ShortName": null,
             "FallbackValue": "2",
             "IsOnDefensiveStatLine": true,
@@ -2181,6 +2181,901 @@
       "Health": 9,
       "SizeFactor": 1.185,
       "XOffSet": 0.0,
+      "AugmentationsNames": [],
+      "PovHeight": 0.0
+    },
+    {
+      "FigurineTemplateName": "Abyssal Anchor",
+      "BaseName": "30mm",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "DF",
+            "ShortName": null,
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "7"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "WP",
+            "ShortName": null,
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "SP",
+            "ShortName": null,
+            "FallbackValue": "6",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "SZ",
+            "ShortName": null,
+            "FallbackValue": "2",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "1"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png",
+        "<FigurineTemplateFolderPath>/StatImage1.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 7,
+      "SizeFactor": 1.077,
+      "XOffSet": 0.0,
+      "AugmentationsNames": [],
+      "PovHeight": 0.0
+    },
+    {
+      "FigurineTemplateName": "Dynast Bram",
+      "BaseName": "30mm",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "DF",
+            "ShortName": null,
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "WP",
+            "ShortName": null,
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "SP",
+            "ShortName": null,
+            "FallbackValue": "6",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "SZ",
+            "ShortName": null,
+            "FallbackValue": "2",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "2"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png",
+        "<FigurineTemplateFolderPath>/StatImage1.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 10,
+      "SizeFactor": 0.893,
+      "XOffSet": -171.0,
+      "AugmentationsNames": [],
+      "PovHeight": 0.0
+    },
+    {
+      "FigurineTemplateName": "Hooded Rider",
+      "BaseName": "50mm",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "DF",
+            "ShortName": null,
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "WP",
+            "ShortName": null,
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "7"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "SP",
+            "ShortName": null,
+            "FallbackValue": "6",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "8"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "SZ",
+            "ShortName": null,
+            "FallbackValue": "2",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "3"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png",
+        "<FigurineTemplateFolderPath>/StatImage1.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 10,
+      "SizeFactor": 1.391,
+      "XOffSet": 4.0,
+      "AugmentationsNames": [],
+      "PovHeight": 0.0
+    },
+    {
+      "FigurineTemplateName": "Malisaurus Rex",
+      "BaseName": "50mm",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "DF",
+            "ShortName": null,
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "WP",
+            "ShortName": null,
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "SP",
+            "ShortName": null,
+            "FallbackValue": "6",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "SZ",
+            "ShortName": null,
+            "FallbackValue": "2",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png",
+        "<FigurineTemplateFolderPath>/StatImage1.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 13,
+      "SizeFactor": 1.826,
+      "XOffSet": 500.0,
+      "AugmentationsNames": [],
+      "PovHeight": 0.0
+    },
+    {
+      "FigurineTemplateName": "Silken King, Colossus",
+      "BaseName": "50mm",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "DF",
+            "ShortName": null,
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "WP",
+            "ShortName": null,
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "SP",
+            "ShortName": null,
+            "FallbackValue": "6",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "SZ",
+            "ShortName": null,
+            "FallbackValue": "2",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "3"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png",
+        "<FigurineTemplateFolderPath>/StatImage1.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 14,
+      "SizeFactor": 1.378,
+      "XOffSet": -3.0,
+      "AugmentationsNames": [],
+      "PovHeight": 0.0
+    },
+    {
+      "FigurineTemplateName": "The Colony",
+      "BaseName": "50mm",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "DF",
+            "ShortName": null,
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "WP",
+            "ShortName": null,
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "SP",
+            "ShortName": null,
+            "FallbackValue": "6",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "SZ",
+            "ShortName": null,
+            "FallbackValue": "2",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "3"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png",
+        "<FigurineTemplateFolderPath>/StatImage1.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 13,
+      "SizeFactor": 0.866,
+      "XOffSet": -74.0,
+      "AugmentationsNames": [],
+      "PovHeight": 0.0
+    },
+    {
+      "FigurineTemplateName": "The Silent Siren",
+      "BaseName": "30mm",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "DF",
+            "ShortName": null,
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "WP",
+            "ShortName": null,
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "SP",
+            "ShortName": null,
+            "FallbackValue": "6",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "SZ",
+            "ShortName": null,
+            "FallbackValue": "2",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "2"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png",
+        "<FigurineTemplateFolderPath>/StatImage1.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 9,
+      "SizeFactor": 1.086,
+      "XOffSet": 0.0,
+      "AugmentationsNames": [],
+      "PovHeight": 0.0
+    },
+    {
+      "FigurineTemplateName": "Gift of Thorns",
+      "BaseName": "30mm",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "DF",
+            "ShortName": null,
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "3"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "WP",
+            "ShortName": null,
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "3"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "SP",
+            "ShortName": null,
+            "FallbackValue": "6",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "8"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "SZ",
+            "ShortName": null,
+            "FallbackValue": "2",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "1"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 1,
+      "SizeFactor": 0.839,
+      "XOffSet": 0.0,
+      "AugmentationsNames": [],
+      "PovHeight": 0.0
+    },
+    {
+      "FigurineTemplateName": "Camerabot",
+      "BaseName": "30mm",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "DF",
+            "ShortName": null,
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "4"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "WP",
+            "ShortName": null,
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "3"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "SP",
+            "ShortName": null,
+            "FallbackValue": "6",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "0"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "SZ",
+            "ShortName": null,
+            "FallbackValue": "2",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "0"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png",
+        "<FigurineTemplateFolderPath>/StatImage1.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 1,
+      "SizeFactor": 0.844,
+      "XOffSet": 0.0,
+      "AugmentationsNames": [],
+      "PovHeight": 0.0
+    },
+    {
+      "FigurineTemplateName": "Dashel Barker, Butcher",
+      "BaseName": "30mm",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "DF",
+            "ShortName": null,
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "WP",
+            "ShortName": null,
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "SP",
+            "ShortName": null,
+            "FallbackValue": "6",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "SZ",
+            "ShortName": null,
+            "FallbackValue": "2",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "2"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png",
+        "<FigurineTemplateFolderPath>/StatImage1.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 14,
+      "SizeFactor": 1.342,
+      "XOffSet": -89.0,
+      "AugmentationsNames": [],
+      "PovHeight": 0.0
+    },
+    {
+      "FigurineTemplateName": "Disease Containment Unit",
+      "BaseName": "30mm",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "DF",
+            "ShortName": null,
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "WP",
+            "ShortName": null,
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "SP",
+            "ShortName": null,
+            "FallbackValue": "6",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "SZ",
+            "ShortName": null,
+            "FallbackValue": "2",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "2"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png",
+        "<FigurineTemplateFolderPath>/StatImage1.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 9,
+      "SizeFactor": 2.486,
+      "XOffSet": -500.0,
+      "AugmentationsNames": [],
+      "PovHeight": 0.0
+    },
+    {
+      "FigurineTemplateName": "Executioner",
+      "BaseName": "40mm",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "DF",
+            "ShortName": null,
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "WP",
+            "ShortName": null,
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "SP",
+            "ShortName": null,
+            "FallbackValue": "6",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "SZ",
+            "ShortName": null,
+            "FallbackValue": "2",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "2"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png",
+        "<FigurineTemplateFolderPath>/StatImage1.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 12,
+      "SizeFactor": 1.44,
+      "XOffSet": -343.0,
+      "AugmentationsNames": [],
+      "PovHeight": 0.0
+    },
+    {
+      "FigurineTemplateName": "Guardian",
+      "BaseName": "40mm",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "DF",
+            "ShortName": null,
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "WP",
+            "ShortName": null,
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "SP",
+            "ShortName": null,
+            "FallbackValue": "6",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "SZ",
+            "ShortName": null,
+            "FallbackValue": "2",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "2"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png",
+        "<FigurineTemplateFolderPath>/StatImage1.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 8,
+      "SizeFactor": 1.431,
+      "XOffSet": 0.0,
+      "AugmentationsNames": [],
+      "PovHeight": 0.0
+    },
+    {
+      "FigurineTemplateName": "Nightcrawler Network",
+      "BaseName": "30mm",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "DF",
+            "ShortName": null,
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "WP",
+            "ShortName": null,
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "SP",
+            "ShortName": null,
+            "FallbackValue": "6",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "SZ",
+            "ShortName": null,
+            "FallbackValue": "2",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "2"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png",
+        "<FigurineTemplateFolderPath>/StatImage1.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 11,
+      "SizeFactor": 2.508,
+      "XOffSet": -237.0,
+      "AugmentationsNames": [],
+      "PovHeight": 0.0
+    },
+    {
+      "FigurineTemplateName": "Rifleman",
+      "BaseName": "30mm",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "DF",
+            "ShortName": null,
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "WP",
+            "ShortName": null,
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "SP",
+            "ShortName": null,
+            "FallbackValue": "6",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "SZ",
+            "ShortName": null,
+            "FallbackValue": "2",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "2"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png",
+        "<FigurineTemplateFolderPath>/StatImage1.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 7,
+      "SizeFactor": 0.933,
+      "XOffSet": 0.0,
+      "AugmentationsNames": [],
+      "PovHeight": 0.0
+    },
+    {
+      "FigurineTemplateName": "Taggart Queeg",
+      "BaseName": "30mm",
+      "Stats": [
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "DF",
+            "ShortName": null,
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "WP",
+            "ShortName": null,
+            "FallbackValue": "5",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "6"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "SP",
+            "ShortName": null,
+            "FallbackValue": "6",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": true
+          },
+          "Value": "5"
+        },
+        {
+          "FigurineStatCreatorData": {
+            "FigurineStatName": "SZ",
+            "ShortName": null,
+            "FallbackValue": "2",
+            "IsOnDefensiveStatLine": true,
+            "IsDefaultMovementStat": false
+          },
+          "Value": "2"
+        }
+      ],
+      "StatImageFilePaths": [
+        "<FigurineTemplateFolderPath>/StatImage0.png",
+        "<FigurineTemplateFolderPath>/StatImage1.png"
+      ],
+      "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
+      "Health": 11,
+      "SizeFactor": 1.077,
+      "XOffSet": -147.0,
       "AugmentationsNames": [],
       "PovHeight": 0.0
     }

@@ -1,8 +1,9 @@
 {
     "Tables": [
         {
-            "Name": "Bord Nummer et",
+            "TableName": "Bord Nummer et",
             "MatName": "Rock Dessert",
+            "HasImage": true,
             "TerrainPiecesOnTable": [
                 {
                     "TerrainPieceName": "Ship Wreck Front",
@@ -246,6 +247,94 @@
                         "z": -13.1420259475708
                     },
                     "yRotation": 98.40766906738281
+                }
+            ]
+        },
+        {
+            "TableName": "MesaDoux",
+            "MatName": "Rock Dessert",
+            "HasImage": true,
+            "TerrainPiecesOnTable": [
+                {
+                    "TerrainPieceName": "Shop - Pirate",
+                    "Position": {
+                        "x": 3.363328456878662,
+                        "y": 0.0,
+                        "z": 5.954898834228516
+                    },
+                    "yRotation": 117.56795501708985
+                },
+                {
+                    "TerrainPieceName": "Lava",
+                    "Position": {
+                        "x": 1.27492094039917,
+                        "y": 0.0,
+                        "z": -11.211051940917969
+                    },
+                    "yRotation": 105.7044448852539
+                },
+                {
+                    "TerrainPieceName": "Shop - Pirate",
+                    "Position": {
+                        "x": -11.843679428100586,
+                        "y": 0.0,
+                        "z": -3.624757766723633
+                    },
+                    "yRotation": 17.46221923828125
+                },
+                {
+                    "TerrainPieceName": "Shop - Pirate",
+                    "Position": {
+                        "x": -5.475501537322998,
+                        "y": 0.0,
+                        "z": 3.7916259765625
+                    },
+                    "yRotation": 58.565792083740237
+                },
+                {
+                    "TerrainPieceName": "Scatter Barrels A",
+                    "Position": {
+                        "x": 4.7131876945495609,
+                        "y": 0.0,
+                        "z": -2.5823545455932619
+                    },
+                    "yRotation": 243.3663330078125
+                },
+                {
+                    "TerrainPieceName": "Scatter Barrels A",
+                    "Position": {
+                        "x": -5.843744277954102,
+                        "y": 0.0,
+                        "z": -4.481235504150391
+                    },
+                    "yRotation": 139.8766326904297
+                },
+                {
+                    "TerrainPieceName": "Scatter Barrels A",
+                    "Position": {
+                        "x": 6.255737781524658,
+                        "y": 0.0,
+                        "z": -6.876437187194824
+                    },
+                    "yRotation": 251.72738647460938
+                },
+                {
+                    "TerrainPieceName": "Cart",
+                    "Position": {
+                        "x": -0.7644137144088745,
+                        "y": 0.0,
+                        "z": -4.712347984313965
+                    },
+                    "yRotation": 163.66778564453126
+                },
+                {
+                    "TerrainPieceName": "Cart",
+                    "Position": {
+                        "x": 11.878175735473633,
+                        "y": 0.0,
+                        "z": -2.437493324279785
+                    },
+                    "yRotation": 235.6731414794922
                 }
             ]
         }

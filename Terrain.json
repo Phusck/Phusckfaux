@@ -1,7 +1,7 @@
 {
     "TerrainPieceDatas": [
         {
-            "Name": "Ship Wreck Front",
+            "TerrainPieceName": "Ship Wreck Front",
             "TerrainColliders": [
                 {
                     "TerrainColliderName": "Ship Wreck Front",
@@ -56,7 +56,7 @@
             "TerrainModelName": "Ship Wreck Front"
         },
         {
-            "Name": "Cart",
+            "TerrainPieceName": "Cart",
             "TerrainColliders": [
                 {
                     "TerrainColliderName": "Cart",
@@ -111,7 +111,7 @@
             "TerrainModelName": "Cart"
         },
         {
-            "Name": "Rock A",
+            "TerrainPieceName": "Rock A",
             "TerrainColliders": [
                 {
                     "TerrainColliderName": "",
@@ -166,7 +166,7 @@
             "TerrainModelName": "Rock A"
         },
         {
-            "Name": "Shanty Bar",
+            "TerrainPieceName": "Shanty Bar",
             "TerrainColliders": [
                 {
                     "TerrainColliderName": "Shanty Bar",
@@ -221,7 +221,7 @@
             "TerrainModelName": "Shanty Bar"
         },
         {
-            "Name": "Crate A",
+            "TerrainPieceName": "Crate A",
             "TerrainColliders": [
                 {
                     "TerrainColliderName": "Crate A",
@@ -276,7 +276,7 @@
             "TerrainModelName": "Crate A"
         },
         {
-            "Name": "Crate F",
+            "TerrainPieceName": "Crate F",
             "TerrainColliders": [
                 {
                     "TerrainColliderName": "Crate F",
@@ -331,7 +331,7 @@
             "TerrainModelName": "Crate F"
         },
         {
-            "Name": "Well - Semi Simple",
+            "TerrainPieceName": "Well - Semi Simple",
             "TerrainColliders": [
                 {
                     "TerrainColliderName": "Well - Semi Simple",
@@ -411,7 +411,7 @@
             "TerrainModelName": "Well - Semi Simple"
         },
         {
-            "Name": "Rowboat",
+            "TerrainPieceName": "Rowboat",
             "TerrainColliders": [
                 {
                     "TerrainColliderName": "Rowboat",
@@ -466,7 +466,7 @@
             "TerrainModelName": "Rowboat"
         },
         {
-            "Name": "Woods",
+            "TerrainPieceName": "Woods",
             "TerrainColliders": [
                 {
                     "TerrainColliderName": "Woods",
@@ -622,7 +622,7 @@
             "TerrainModelName": ""
         },
         {
-            "Name": "Lava",
+            "TerrainPieceName": "Lava",
             "TerrainColliders": [
                 {
                     "TerrainColliderName": "Lava",
@@ -778,7 +778,7 @@
             "TerrainModelName": ""
         },
         {
-            "Name": "Fog",
+            "TerrainPieceName": "Fog",
             "TerrainColliders": [
                 {
                     "TerrainColliderName": "Fog",
@@ -933,7 +933,7 @@
             "TerrainModelName": ""
         },
         {
-            "Name": "Wood Stack",
+            "TerrainPieceName": "Wood Stack",
             "TerrainColliders": [
                 {
                     "TerrainColliderName": "Wood Stack",
@@ -988,7 +988,7 @@
             "TerrainModelName": "Wood Stack"
         },
         {
-            "Name": "Scatter Barrels A",
+            "TerrainPieceName": "Scatter Barrels A",
             "TerrainColliders": [
                 {
                     "TerrainColliderName": "Scatter Barrels A",
@@ -1043,7 +1043,7 @@
             "TerrainModelName": "Scatter Barrels A"
         },
         {
-            "Name": "Shanty A",
+            "TerrainPieceName": "Shanty A",
             "TerrainColliders": [
                 {
                     "TerrainColliderName": "Shanty A",
@@ -1123,7 +1123,7 @@
             "TerrainModelName": "Shanty A"
         },
         {
-            "Name": "Shop - Pirate",
+            "TerrainPieceName": "Shop - Pirate",
             "TerrainColliders": [
                 {
                     "TerrainColliderName": "Shop - Pirate",

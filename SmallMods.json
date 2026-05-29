@@ -8,7 +8,7 @@
       "CanAffectTokens": false,
       "CanAffectPoints": false,
       "IsStackable": false,
-      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Adaptable.png"
+      "ImagePathInRuleset": "C:/Skirmish Game Simulator Data/Rulesets/Phusckfaux/SmallMods/Adaptable.png"
     },
     {
       "SmallModName": "Adversary",
@@ -18,7 +18,7 @@
       "CanAffectTokens": false,
       "CanAffectPoints": false,
       "IsStackable": false,
-      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Adversary.png"
+      "ImagePathInRuleset": "C:/Skirmish Game Simulator Data/Rulesets/Phusckfaux/SmallMods/Adversary.png"
     },
     {
       "SmallModName": "Apple",
@@ -28,7 +28,7 @@
       "CanAffectTokens": false,
       "CanAffectPoints": false,
       "IsStackable": false,
-      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Apple.png"
+      "ImagePathInRuleset": "C:/Skirmish Game Simulator Data/Rulesets/Phusckfaux/SmallMods/Apple.png"
     },
     {
       "SmallModName": "Aura (Fire)",
@@ -38,7 +38,7 @@
       "CanAffectTokens": false,
       "CanAffectPoints": false,
       "IsStackable": false,
-      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Aura (Fire).png"
+      "ImagePathInRuleset": "C:/Skirmish Game Simulator Data/Rulesets/Phusckfaux/SmallMods/Aura (Fire).png"
     },
     {
       "SmallModName": "Aura (Hazardous)",
@@ -48,7 +48,7 @@
       "CanAffectTokens": false,
       "CanAffectPoints": false,
       "IsStackable": false,
-      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Aura (Hazardous).png"
+      "ImagePathInRuleset": "C:/Skirmish Game Simulator Data/Rulesets/Phusckfaux/SmallMods/Aura (Hazardous).png"
     },
     {
       "SmallModName": "Banana",
@@ -58,7 +58,7 @@
       "CanAffectTokens": false,
       "CanAffectPoints": false,
       "IsStackable": false,
-      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Banana.png"
+      "ImagePathInRuleset": "C:/Skirmish Game Simulator Data/Rulesets/Phusckfaux/SmallMods/Banana.png"
     },
     {
       "SmallModName": "Burning",
@@ -68,7 +68,7 @@
       "CanAffectTokens": false,
       "CanAffectPoints": false,
       "IsStackable": false,
-      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Burning.png"
+      "ImagePathInRuleset": "C:/Skirmish Game Simulator Data/Rulesets/Phusckfaux/SmallMods/Burning.png"
     },
     {
       "SmallModName": "Cherry",
@@ -78,7 +78,7 @@
       "CanAffectTokens": false,
       "CanAffectPoints": false,
       "IsStackable": false,
-      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Cherry.png"
+      "ImagePathInRuleset": "C:/Skirmish Game Simulator Data/Rulesets/Phusckfaux/SmallMods/Cherry.png"
     },
     {
       "SmallModName": "Entranced",
@@ -88,7 +88,7 @@
       "CanAffectTokens": false,
       "CanAffectPoints": false,
       "IsStackable": false,
-      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Entranced.png"
+      "ImagePathInRuleset": "C:/Skirmish Game Simulator Data/Rulesets/Phusckfaux/SmallMods/Entranced.png"
     },
     {
       "SmallModName": "Fast",
@@ -98,7 +98,7 @@
       "CanAffectTokens": false,
       "CanAffectPoints": false,
       "IsStackable": false,
-      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Fast.png"
+      "ImagePathInRuleset": "C:/Skirmish Game Simulator Data/Rulesets/Phusckfaux/SmallMods/Fast.png"
     },
     {
       "SmallModName": "Focus",
@@ -108,7 +108,7 @@
       "CanAffectTokens": false,
       "CanAffectPoints": false,
       "IsStackable": false,
-      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Focus.png"
+      "ImagePathInRuleset": "C:/Skirmish Game Simulator Data/Rulesets/Phusckfaux/SmallMods/Focus.png"
     },
     {
       "SmallModName": "Greedy",
@@ -118,7 +118,7 @@
       "CanAffectTokens": false,
       "CanAffectPoints": false,
       "IsStackable": false,
-      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Greedy.png"
+      "ImagePathInRuleset": "C:/Skirmish Game Simulator Data/Rulesets/Phusckfaux/SmallMods/Greedy.png"
     },
     {
       "SmallModName": "Shame",
@@ -128,7 +128,7 @@
       "CanAffectTokens": false,
       "CanAffectPoints": false,
       "IsStackable": false,
-      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Shame.png"
+      "ImagePathInRuleset": "C:/Skirmish Game Simulator Data/Rulesets/Phusckfaux/SmallMods/Shame.png"
     },
     {
       "SmallModName": "Shielded",
@@ -138,7 +138,7 @@
       "CanAffectTokens": false,
       "CanAffectPoints": false,
       "IsStackable": false,
-      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Shielded.png"
+      "ImagePathInRuleset": "C:/Skirmish Game Simulator Data/Rulesets/Phusckfaux/SmallMods/Shielded.png"
     },
     {
       "SmallModName": "Slow",
@@ -148,7 +148,7 @@
       "CanAffectTokens": false,
       "CanAffectPoints": false,
       "IsStackable": false,
-      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Slow.png"
+      "ImagePathInRuleset": "C:/Skirmish Game Simulator Data/Rulesets/Phusckfaux/SmallMods/Slow.png"
     },
     {
       "SmallModName": "Stunned",
@@ -158,7 +158,7 @@
       "CanAffectTokens": false,
       "CanAffectPoints": false,
       "IsStackable": false,
-      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Stunned.png"
+      "ImagePathInRuleset": "C:/Skirmish Game Simulator Data/Rulesets/Phusckfaux/SmallMods/Stunned.png"
     },
     {
       "SmallModName": "Staggered",
@@ -168,7 +168,7 @@
       "CanAffectTokens": false,
       "CanAffectPoints": false,
       "IsStackable": false,
-      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Staggered.png"
+      "ImagePathInRuleset": "C:/Skirmish Game Simulator Data/Rulesets/Phusckfaux/SmallMods/Staggered.png"
     },
     {
       "SmallModName": "Impact",
@@ -178,7 +178,7 @@
       "CanAffectTokens": false,
       "CanAffectPoints": false,
       "IsStackable": false,
-      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Impact.png"
+      "ImagePathInRuleset": "C:/Skirmish Game Simulator Data/Rulesets/Phusckfaux/SmallMods/Impact.png"
     },
     {
       "SmallModName": "Explosive",
@@ -188,7 +188,7 @@
       "CanAffectTokens": false,
       "CanAffectPoints": false,
       "IsStackable": false,
-      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/SmallMods/Explosive.png"
+      "ImagePathInRuleset": "C:/Skirmish Game Simulator Data/Rulesets/Phusckfaux/SmallMods/Explosive.png"
     }
   ]
 }

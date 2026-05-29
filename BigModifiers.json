@@ -11,6 +11,18 @@
     {
       "BigModifierName": "The Path of Spirit",
       "ImagePath": "<BigModifierFolderPath>/The Path of Spirit.png"
+    },
+    {
+      "BigModifierName": "Divulge Secrets",
+      "ImagePath": "<BigModifierFolderPath>/Divulge Secrets.png"
+    },
+    {
+      "BigModifierName": "Stolen Life",
+      "ImagePath": "<BigModifierFolderPath>/Stolen Life.png"
+    },
+    {
+      "BigModifierName": "Temptation",
+      "ImagePath": "<BigModifierFolderPath>/Temptation.png"
     }
   ]
 }

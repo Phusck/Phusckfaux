@@ -1,7 +1,7 @@
 {
   "Mats": [
     {
-      "Name": "Rock Dessert",
+      "MatName": "Rock Dessert",
       "ImagePath": "<MatFolderPath>/Rock Dessert.png",
       "SizeX": 36,
       "SizeY": 36,
@@ -115,9 +115,45 @@
               "SizeZ": 8.0
             }
           ]
+        },
+        {
+          "StartingZoneName": "Flank A",
+          "StartingZonePrimitiveDatas": [
+            {
+              "PrefabIndex": 0,
+              "PositionX": -9.0,
+              "PositionZ": -18.0,
+              "RotationY": 0.0,
+              "SizeX": 18.0,
+              "SizeZ": 9.0
+            },
+            {
+              "PrefabIndex": 0,
+              "PositionX": -13.5,
+              "PositionZ": -9.0,
+              "RotationY": 0.0,
+              "SizeX": 9.0,
+              "SizeZ": 9.0
+            },
+            {
+              "PrefabIndex": 0,
+              "PositionX": 9.0,
+              "PositionZ": 9.0,
+              "RotationY": 0.0,
+              "SizeX": 18.0,
+              "SizeZ": 9.0
+            },
+            {
+              "PrefabIndex": 0,
+              "PositionX": 13.5,
+              "PositionZ": 0.0,
+              "RotationY": 0.0,
+              "SizeX": 9.0,
+              "SizeZ": 9.0
+            }
+          ]
         }
-      ],
-      "ImagePathInRuleset": "C:\\Skirmish Game Simulator Data\\Rulesets\\/Phusckfaux/MatArrayData/Rock Dessert.png"
+      ]
     }
   ]
 }

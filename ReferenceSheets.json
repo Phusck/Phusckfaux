@@ -24,6 +24,16 @@
       "ReferenceSheetTitle": "Trigger Happy",
       "ImagePath": "<ReferenceSheetsFolderPath>/Trigger Happy.png",
       "IsRosterReferenceSheet": true
+    },
+    {
+      "ReferenceSheetTitle": "Coronation",
+      "ImagePath": "<ReferenceSheetsFolderPath>/Coronation.png",
+      "IsRosterReferenceSheet": true
+    },
+    {
+      "ReferenceSheetTitle": "Excessive Violence",
+      "ImagePath": "<ReferenceSheetsFolderPath>/Excessive Violence.png",
+      "IsRosterReferenceSheet": true
     }
   ]
 }

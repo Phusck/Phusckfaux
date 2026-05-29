@@ -1,5 +1,5 @@
 {
-  "Name": "Phusckfaux",
+  "RulesetName": "Phusckfaux",
   "IsRostersPersistent": false,
   "RosterIsCalled": "Crew",
   "FigurineIsCalled": "Model",
@@ -23,7 +23,7 @@
   },
   "Decks": [
     {
-      "Name": "Fate Deck",
+      "DeckName": "Fate Deck",
       "CardBackFileName": "CardBack.png",
       "CardFileNames": [
         "0.png",
@@ -96,15 +96,15 @@
   ],
   "Bases": [
     {
-      "Name": "30mm",
+      "BaseName": "30mm",
       "Diameter": 30.0
     },
     {
-      "Name": "40mm",
+      "BaseName": "40mm",
       "Diameter": 40.0
     },
     {
-      "Name": "50mm",
+      "BaseName": "50mm",
       "Diameter": 50.0
     }
   ],
@@ -114,25 +114,25 @@
   "FigurineStatCardType": 0,
   "Stats": [
     {
-      "Name": "DF",
+      "FigurineStatName": "DF",
       "FallbackValue": "5",
       "IsOnDefensiveStatLine": true,
       "IsDefaultMovementStat": false
     },
     {
-      "Name": "WP",
+      "FigurineStatName": "WP",
       "FallbackValue": "5",
       "IsOnDefensiveStatLine": true,
       "IsDefaultMovementStat": false
     },
     {
-      "Name": "SP",
+      "FigurineStatName": "SP",
       "FallbackValue": "6",
       "IsOnDefensiveStatLine": true,
       "IsDefaultMovementStat": true
     },
     {
-      "Name": "SZ",
+      "FigurineStatName": "SZ",
       "FallbackValue": "2",
       "IsOnDefensiveStatLine": true,
       "IsDefaultMovementStat": false
