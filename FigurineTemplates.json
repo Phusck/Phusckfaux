@@ -2905,7 +2905,7 @@
         "<FigurineTemplateFolderPath>/StatImage1.png"
       ],
       "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
-      "Health": 8,
+      "Health": 9,
       "SizeFactor": 1.431,
       "XOffSet": 0.0,
       "AugmentationsNames": [],
@@ -2962,8 +2962,8 @@
       ],
       "FigurineImagePath": "<FigurineTemplateFolderPath>/FigurineImage.png",
       "Health": 11,
-      "SizeFactor": 2.508,
-      "XOffSet": -237.0,
+      "SizeFactor": 2.417,
+      "XOffSet": -361.0,
       "AugmentationsNames": [],
       "PovHeight": 0.0
     },
