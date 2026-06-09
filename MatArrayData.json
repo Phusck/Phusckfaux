@@ -152,6 +152,69 @@
               "SizeZ": 9.0
             }
           ]
+        },
+        {
+          "StartingZoneName": "Flan B",
+          "StartingZonePrimitiveDatas": [
+            {
+              "PrefabIndex": 0,
+              "PositionX": -9.0,
+              "PositionZ": 9.0,
+              "RotationY": 0.0,
+              "SizeX": 18.0,
+              "SizeZ": 9.0
+            },
+            {
+              "PrefabIndex": 0,
+              "PositionX": -13.5,
+              "PositionZ": 0.0,
+              "RotationY": 0.0,
+              "SizeX": 9.0,
+              "SizeZ": 9.0
+            },
+            {
+              "PrefabIndex": 0,
+              "PositionX": 9.0,
+              "PositionZ": -18.0,
+              "RotationY": 0.0,
+              "SizeX": 18.0,
+              "SizeZ": 9.0
+            },
+            {
+              "PrefabIndex": 0,
+              "PositionX": 13.5,
+              "PositionZ": -9.0,
+              "RotationY": 0.0,
+              "SizeX": 9.0,
+              "SizeZ": 9.0
+            }
+          ]
+        },
+        {
+          "StartingZoneName": "Centerline Diagonal A",
+          "StartingZonePrimitiveDatas": [
+            {
+              "PrefabIndex": 0,
+              "PositionX": -0.02,
+              "PositionZ": 0.0,
+              "RotationY": 45.0,
+              "SizeX": 45.25,
+              "SizeZ": 0.04
+            }
+          ]
+        },
+        {
+          "StartingZoneName": "Centerline Diagonal B",
+          "StartingZonePrimitiveDatas": [
+            {
+              "PrefabIndex": 0,
+              "PositionX": -0.02,
+              "PositionZ": 0.0,
+              "RotationY": 135.0,
+              "SizeX": 45.25,
+              "SizeZ": 0.04
+            }
+          ]
         }
       ]
     }

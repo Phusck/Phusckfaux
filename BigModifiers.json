@@ -23,6 +23,10 @@
     {
       "BigModifierName": "Temptation",
       "ImagePath": "<BigModifierFolderPath>/Temptation.png"
+    },
+    {
+      "BigModifierName": "Petrified Sentinel",
+      "ImagePath": "<BigModifierFolderPath>/Petrified Sentinel.png"
     }
   ]
 }

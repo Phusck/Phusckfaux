@@ -34,6 +34,11 @@
       "ReferenceSheetTitle": "Excessive Violence",
       "ImagePath": "<ReferenceSheetsFolderPath>/Excessive Violence.png",
       "IsRosterReferenceSheet": true
+    },
+    {
+      "ReferenceSheetTitle": "Cunnin Patience",
+      "ImagePath": "<ReferenceSheetsFolderPath>/Cunnin Patience.png",
+      "IsRosterReferenceSheet": true
     }
   ]
 }
